@@ -5,6 +5,7 @@ A new credit card company has entered the western U.S. market with a bold promis
 As the company’s **Data Scientist**, my responsibility is to identify potentially fraudulent credit card transactions using historical transaction data.
 
 This project focuses on building and evaluating a **fraud detection model** that prioritizes **customer safety** — even if that means occasionally flagging legitimate transactions as fraudulent.
+<https://www.datacamp.com/datalab/w/57474ee6-437c-4b0a-b5e7-1699d04a3717/edit>
 
 ---
 
